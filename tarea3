@@ -1,0 +1,23 @@
+class serieFibonucci 
+{
+    public static void main(final String args[])
+    {
+
+        int N1 = 0;
+        int N2 = 1;
+        int i = 0;
+
+        System.out.println(N1);
+        System.out.println(N2);
+
+        while (i < 10)
+         {
+            final int valor3 = N1 + N2;
+           System.out.println(N3);
+    i++;
+     N1 = N2;
+    N2 = N3;
+         }
+
+    }
+}
